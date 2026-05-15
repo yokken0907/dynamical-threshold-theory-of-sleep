@@ -1,0 +1,29 @@
+{
+  "decision": "PASS-WITH-MINOR-PUBLICATION-FIXES-A10-DTTS-PUBLIC-GATE-0",
+  "repository": "dynamical-threshold-theory-of-sleep",
+  "public_version": "v0.1.1-public-gate",
+  "date": "2026-05-07",
+  "classification": "睡眠相転移・回復ダイナミクスのネットワーク理論",
+  "allowed_public_description": "A reduced mathematical/network prototype for sleep-like recovery phase transitions, preserving qualitative numerical motifs and a strict medical non-claim boundary.",
+  "allowed_public_description_ja": "睡眠様遷移を適応的ネットワークの回復相ダイナミクスとして記述する低次元数理プロトタイプ。定性的数値モチーフと医療非主張境界を保存する。",
+  "forbidden_claims": [
+    "clinical sleep model",
+    "medical advice",
+    "diagnostic or treatment tool",
+    "human/animal-data validation",
+    "complete biological sleep theory"
+  ],
+  "publication_posture": {
+    "github": "GO after URL replacement; bundled PDF donation sentence was removed in this public-gate copy.",
+    "zenodo": "GO after GitHub release.",
+    "jxiv": "CONDITIONAL; medical/clinical wording must remain strictly non-claim."
+  },
+  "manifest_policy": "manifest-excluding-self",
+  "manifest_entries_verified": 37,
+  "manifest_errors": [],
+  "notes": [
+    "Bundled PDF was redacted to remove unrelated donation/address wording; pdftotext check found no remaining donation/address string.",
+    "No clinical or medical validation claim is authorized."
+  ],
+  "claim_promotion_authorized": false
+}

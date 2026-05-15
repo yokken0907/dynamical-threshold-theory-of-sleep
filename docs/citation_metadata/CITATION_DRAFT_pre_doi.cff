@@ -1,0 +1,25 @@
+# Draft citation metadata retained from the pre-DOI package.
+# The active root CITATION.cff is intentionally omitted in the Zenodo-safe release.
+
+cff-version: 1.2.0
+title: "Dynamical Threshold Theory of Sleep"
+message: "If you use these materials, please cite the corresponding manuscript."
+type: dataset
+authors:
+  - family-names: Yoshimura
+    given-names: Keiji
+    affiliation: Independent Researcher
+abstract: "Paper companion archive for an AI-assisted independent research manuscript on the Dynamical Threshold Theory of Sleep, a mathematical network prototype for sleep-like recovery phase transitions."
+repository-code: "https://github.com/yokken0907/dynamical-threshold-theory-of-sleep"
+date-released: "2026-05-07"
+version: "v0.1.1-public-gate"
+license: "LicenseRef-Evaluation-Only"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Yoshimura
+      given-names: Keiji
+      affiliation: Independent Researcher
+  title: "Dynamical Threshold Theory of Sleep: A Network Prototype for Recovery Phase Transitions"
+  year: 2026
+  # doi: pending  # Add Zenodo DOI after archival.

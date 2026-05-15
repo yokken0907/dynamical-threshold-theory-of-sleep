@@ -1,0 +1,197 @@
+[
+  {
+    "path": ".gitignore",
+    "size_bytes": 103,
+    "sha256": "35221c0680e609398902a102571f93ac916978a3ff3a2b78700c1444221f9da0"
+  },
+  {
+    "path": "AI_ASSISTANCE_DISCLOSURE.md",
+    "size_bytes": 503,
+    "sha256": "8401e7a86ad0bb8df3880379b197e4943005c8fc7559cccba5973c0922827e59"
+  },
+  {
+    "path": "CATEGORY_TITLE_ja.md",
+    "size_bytes": 674,
+    "sha256": "0e12968e477776c948fb9a8466cceb2d6881b504187320a540eab3626927446a"
+  },
+  {
+    "path": "CLAIM_BOUNDARY.md",
+    "size_bytes": 2328,
+    "sha256": "c762cf5628025f4f11a467d3b3aa710944f3923c4a74b4bc025491f1f82b9681"
+  },
+  {
+    "path": "LICENSE",
+    "size_bytes": 547,
+    "sha256": "05f1771c750cbc6f65d79e744720eeaf59a17947ab89627383b30971957c1e0b"
+  },
+  {
+    "path": "LICENSE_EVALUATION_ONLY.txt",
+    "size_bytes": 547,
+    "sha256": "05f1771c750cbc6f65d79e744720eeaf59a17947ab89627383b30971957c1e0b"
+  },
+  {
+    "path": "LIMITATIONS.md",
+    "size_bytes": 1061,
+    "sha256": "789d9610faa7497b1079f3df3f6d927fde9561a2608cc001ff5b2fb21ed6d9fd"
+  },
+  {
+    "path": "MANIFEST_NOTE.md",
+    "size_bytes": 392,
+    "sha256": "4afe52dfc0a2d3e9f3514d3b44c4162b0bb623770e90de99ba351a0b7d4f8005"
+  },
+  {
+    "path": "PRACTICAL_POSITIONING_SHEET_ja.md",
+    "size_bytes": 2828,
+    "sha256": "baebff856833c81e06d193604fbc143a760f376f44df437bb98612b460ae1f90"
+  },
+  {
+    "path": "PUBLICATION_STRATEGY_ja.md",
+    "size_bytes": 881,
+    "sha256": "a5e6f8ed8db4a56d81da361a9cc34a6de017816c61c55f8aa421b539c4dfa531"
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 2528,
+    "sha256": "d30723cb6122d19d700da5411584eb7042dbd468206ab89be9bba6812793940f"
+  },
+  {
+    "path": "README_ja.md",
+    "size_bytes": 2584,
+    "sha256": "c28f23a1fc7669bed2341a3f26683b9cc59ab9a342f56a66655d21023303cbe4"
+  },
+  {
+    "path": "RELEASE_NOTES_v0.1.1_zenodo_safe_public_gate.md",
+    "size_bytes": 3239,
+    "sha256": "b02b2102ad2f0c7ad5959e5b0910d24fe15e288dccc574dbf29bd622312a579e"
+  },
+  {
+    "path": "SOURCE_INPUTS_USED.json",
+    "size_bytes": 540,
+    "sha256": "85b4debfcf04360bc5bf653aa1c559227138e7411526f36e40f689d2ddc84e20"
+  },
+  {
+    "path": "deferred_related_materials_index/README_ja.md",
+    "size_bytes": 349,
+    "sha256": "aee651fbbc8bc1bd4ecec614298bde9914c9d68cef155a7bbe750a6cab527a86"
+  },
+  {
+    "path": "deferred_related_materials_index/source_materials_classification.csv",
+    "size_bytes": 1360362,
+    "sha256": "ac058b2d809ce061122c225f2ccadd11647f1933866e50f9307e1b1c48c03efd"
+  },
+  {
+    "path": "docs/GITHUB_PUBLICATION_CHECKLIST_ja.md",
+    "size_bytes": 852,
+    "sha256": "b4b4694f6b21510181bc935be5ddbe7b96267c7b50300f2c8caeca4dd0a59820"
+  },
+  {
+    "path": "docs/MANUSCRIPT_CLEANUP_REQUIRED_ja.md",
+    "size_bytes": 573,
+    "sha256": "f30a2e853011a8520f2c485a47a379ff6a8482881b784f94c16a8bc1fcdd8524"
+  },
+  {
+    "path": "docs/MEDICAL_CLAIM_BOUNDARY_ja.md",
+    "size_bytes": 744,
+    "sha256": "f9bc7f0e1062cfc1b50d7061693c30ca000562f5b1e6a7090e9e43a39bfa4331"
+  },
+  {
+    "path": "docs/MISSING_MATERIALS_ja.md",
+    "size_bytes": 608,
+    "sha256": "c8d2a5d687a99cda7d4b5bf3da303549fd65f94062dbdfda008ff07e1b00ac36"
+  },
+  {
+    "path": "docs/PDF_CLEANUP_APPLIED_PUBLIC_GATE_0.md",
+    "size_bytes": 771,
+    "sha256": "090d799e2fbd3baae44564a1f3bd11c9482377147aaea488cfc02e883076d395"
+  },
+  {
+    "path": "docs/REPRODUCIBILITY_NOTES_ja.md",
+    "size_bytes": 658,
+    "sha256": "5a2f55435689486f1dd57c015be3391fbf59a24ffb0a78a803ebe887fd61d8ec"
+  },
+  {
+    "path": "docs/citation_metadata/CITATION_DRAFT_pre_doi.cff",
+    "size_bytes": 1099,
+    "sha256": "f61f43442b2c0f0974fe0e2ff7f76805ba342ac32e3ca0e43c6588ca76888786"
+  },
+  {
+    "path": "docs/public_gate_0/PUBLIC_GATE_0_A10_DTTS.json",
+    "size_bytes": 1554,
+    "sha256": "c2aa7475523c6a9adbc692f4d2385c023fab6e1b070ead3b033f843b280a42d2"
+  },
+  {
+    "path": "docs/public_gate_0/PUBLIC_GATE_0_A10_DTTS.md",
+    "size_bytes": 1790,
+    "sha256": "d9038087a7b721f163806b7d848df114e9259393fad0041c246a69dd652b7fd9"
+  },
+  {
+    "path": "figures/README_ja.md",
+    "size_bytes": 346,
+    "sha256": "936ac05ef4a3c9b7b6ef32c844b5a809a338b4512f9eff632e3c58872a0b1c19"
+  },
+  {
+    "path": "figures/figure_index.csv",
+    "size_bytes": 417,
+    "sha256": "530ba00ac5e8e701d9947cc4107a0fd04b365b35c42f9be61c3a8bac4d99b949"
+  },
+  {
+    "path": "manuscript/Dynamical_Threshold_Theory_of_Sleep.pdf",
+    "size_bytes": 823454,
+    "sha256": "5008310cfe01821d3f4189c055928f9fc800d547fa809e411ba9a728b267e764"
+  },
+  {
+    "path": "manuscript/README_ja.md",
+    "size_bytes": 281,
+    "sha256": "5250032742d022b8cd081c5ac25fa9c9759bd2a62620b049bc7e1fbbf7f72943"
+  },
+  {
+    "path": "manuscript/jxiv_metadata_ja_en.md",
+    "size_bytes": 645,
+    "sha256": "130b2315932792cd89b5c3131537f44cd6d489dac1c9cd3ddc234b950f239b63"
+  },
+  {
+    "path": "results_summary/dtts_prediction_summary.csv",
+    "size_bytes": 708,
+    "sha256": "ebbfa9ba0449c995b3c021c5bac2e1b74586dc2c278a9aeacc5fcfa9b992f895"
+  },
+  {
+    "path": "results_summary/summary.json",
+    "size_bytes": 1595,
+    "sha256": "fdd64d8a8766c62c619d06262aa4a6644b29b82ce6dbd828d81b3d15ebf1f929"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/README_ja.md",
+    "size_bytes": 594,
+    "sha256": "af0576bea6df248e4e260583445963368858d54873ba38b9da1c6c956acbe6f3"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/dynamical_sleep_theory_selected/fig_scatter_selective.png",
+    "size_bytes": 195189,
+    "sha256": "dd9bae597be564719bab2d35b613b6f60dbf6b99a2fd138c9dd3b4f792a0d07d"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/dynamical_sleep_theory_selected/fig_timeseries_final.png",
+    "size_bytes": 527434,
+    "sha256": "ea889bcbe9661a90b0f6db2bbcea58e3817aaae76a9434cce3db406b882a5870"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/dynamical_sleep_theory_selected/simulation_result.png",
+    "size_bytes": 424534,
+    "sha256": "e23df9094f891133e5955329a0823190bf1b2f86ee6a528de11c229236a58b88"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/dynamical_sleep_theory_selected/sleep_dynamics_final.py",
+    "size_bytes": 7267,
+    "sha256": "5e046d229e132637f8698b05d5668d3e3c60dcaf395c711a4249d29c7dd4ca47"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/dynamical_sleep_theory_selected/sleep_dynamics_v2.py",
+    "size_bytes": 5931,
+    "sha256": "468cc8e299ce525fc87bf052fc5d4af24d92e80e1483b620829c8a59cfdcd7fc"
+  },
+  {
+    "path": "tools/verify_manifest_excluding_self.py",
+    "size_bytes": 898,
+    "sha256": "6b1294314e6eb503336d049055322f89f6a4e596d76475efbdf1b39b24b7c395"
+  }
+]

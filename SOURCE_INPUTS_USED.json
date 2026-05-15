@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-05-06T16:53:39.945764+00:00",
+  "source_zip": {
+    "name": "dynamical_sleep_theory_selected.zip",
+    "sha256": "9bc45c2cb4d549a645d6f8b4cd8bf91632e1e4fe0fe204582c0891293819fb6f",
+    "size_bytes": 107760403
+  },
+  "paper_pdf": {
+    "name": "Dynamical_Threshold_Theory_of_Sleep(1).pdf",
+    "sha256": "99668eb0f7c925742f4b8eca76f783b215786e0f0555162d634a0fd2bb21e156",
+    "size_bytes": 807282
+  },
+  "selected_file_count": 5,
+  "deferred_file_count": 7931,
+  "included_png_count": 3,
+  "included_csv_count": 0
+}

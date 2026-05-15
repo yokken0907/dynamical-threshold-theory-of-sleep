@@ -1,0 +1,9 @@
+Evaluation-Only Notice
+
+The materials in this repository are provided for research review, educational discussion, theoretical evaluation, and reproducibility-oriented experimentation.
+
+They are not provided as medical advice, clinical sleep diagnosis, treatment guidance, human-data validation, or a complete biological sleep model.
+
+Any medical, clinical, health-related, human-subject, or therapeutic use requires independent expert review, ethics approval where applicable, and domain-specific validation.
+
+Copyright (c) 2026 Keiji Yoshimura.
