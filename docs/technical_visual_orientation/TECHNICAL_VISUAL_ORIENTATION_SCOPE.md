@@ -2,52 +2,56 @@
 
 ## Intended audience
 
-This page is meant for technically interested first-time readers of the `DTTS` repository.
+This page is meant for technically interested first-time readers of the Dynamical Threshold Theory of Sleep repository.
 
 It is not a fully general popular-science page. It assumes the reader can tolerate terms such as:
 
-- reduced surrogate,
-- structured prior,
-- mission variable,
-- constraint boundary,
-- uncertainty / stress testing,
-- claim boundary.
+- reduced dynamical-threshold model,
+- homeostatic load,
+- arousal / activation pressure,
+- adaptive threshold,
+- synchronization,
+- recovery basin,
+- fragmentation risk,
+- medical claim boundary.
 
 ## Function
 
 The page provides a compact orientation to:
 
-1. the repository's technical posture,
-2. the mission variable,
-3. the reduced model or surrogate status,
-4. structured-prior evaluation logic,
-5. uncertainty / risk discipline,
+1. the DTTS-specific mission variable,
+2. sleep-like recovery-transition diagnosis,
+3. homeostatic load / arousal / adaptive-threshold channels,
+4. synchronization and recovery-basin interpretation,
+5. fragmentation or relapse-like instability,
 6. evidence hierarchy,
 7. recommended reading order,
-8. explicit non-claims.
+8. explicit medical non-claims.
 
 ## Non-function
 
-The page does not execute simulations or validate the project.
+The page does not execute clinical or diagnostic computations.
 
 It does not establish:
 
-- Medical advice
-- Sleep disorder diagnosis
-- Treatment recommendation
-- Clinical validation
-- Human-subject sleep model
+- medical diagnosis,
+- treatment recommendation,
+- patient-specific prediction,
+- clinical validation,
+- wearable-device certification,
+- medical-device readiness,
+- replacement for medical or sleep-specialist evaluation.
 
 ## Claim boundary
 
 Correct interpretation:
 
 ```text
-This page explains how to read the repository.
+This page explains how to read the DTTS reduced dynamical-threshold repository.
 ```
 
 Incorrect interpretation:
 
 ```text
-This page proves or validates the project.
+This page validates a medical sleep diagnostic, treatment method, or clinical prediction tool.
 ```

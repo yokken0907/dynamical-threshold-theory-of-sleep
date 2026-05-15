@@ -30,9 +30,11 @@ For technically interested first-time readers, this repository includes a browse
 
 `docs/technical_visual_orientation/index.html`
 
-This page provides a structured overview of DTTS, including the project mission variable, reduced-model or surrogate status, structured-prior / constrained-evaluation logic, uncertainty and stress discipline where applicable, evidence hierarchy, recommended repository reading order, and the claim boundary.
+This page provides a DTTS-specific overview of the Dynamical Threshold Theory of Sleep. In this repository, the mission variable is not sleep-quality scoring, medical diagnosis, treatment guidance, or clinical prediction; it is sleep-like recovery-transition diagnosis in a reduced dynamical-threshold model, meaning that homeostatic load, arousal/activation pressure, adaptive threshold, synchronization, noise, and recovery-state variables are organized to distinguish wake-like persistence, threshold crossing, sleep-like recovery consolidation, and fragmentation risk.
 
-The page is intended only as an orientation aid. It does not execute simulations, does not validate the project, does not certify deployment readiness, and does not replace the manuscript, source/configuration materials, supporting archive materials, or independent expert review.
+The page also summarizes reduced dynamical-threshold model status, load/arousal/threshold/synchronization channels, recovery-basin interpretation, evidence hierarchy, repository reading order, and the medical claim boundary. All major visual sections include replay controls so that readers can step through the diagnostic logic rather than viewing a static template.
+
+The page is intended only as an orientation aid. It does not run medical or clinical computations, does not provide diagnosis, treatment, patient-specific prediction, wearable-device certification, or medical-device readiness, and does not replace the manuscript, source materials, figures, or independent expert review.
 
 ## What this repository does not claim
 
