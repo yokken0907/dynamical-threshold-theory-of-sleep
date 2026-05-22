@@ -70,11 +70,10 @@ Draft citation metadata is preserved at:
 
 After Zenodo DOI assignment, DOI metadata should be added to the README, manuscript metadata, and citation files in a follow-up DOI-metadata release.
 
-## Support
-
-This project is independently developed without institutional sponsorship. Optional support for maintenance and documentation is described in [SUPPORT.md](SUPPORT.md).
-
 ## Medical and health-claim boundary
 
 DTTS is a mathematical and computational prototype for sleep-like recovery phase transitions. It is not a clinical sleep model, medical advice, a diagnosis or treatment tool, a human-subject validation result, or a complete biological theory of sleep.
 
+## Support
+
+This project is independently developed without institutional sponsorship. Optional support for maintenance and documentation is described in [SUPPORT.md](SUPPORT.md).
