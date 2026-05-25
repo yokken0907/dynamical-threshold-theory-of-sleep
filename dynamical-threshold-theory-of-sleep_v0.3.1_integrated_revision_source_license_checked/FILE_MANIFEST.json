@@ -1,0 +1,417 @@
+[
+  {
+    "path": ".github/FUNDING.yml",
+    "size_bytes": 18,
+    "sha256": "3ae558473afd80b3114bb87ee3a79c51b0c2a0a363701a9d94b2feb5123b9197"
+  },
+  {
+    "path": ".gitignore",
+    "size_bytes": 103,
+    "sha256": "35221c0680e609398902a102571f93ac916978a3ff3a2b78700c1444221f9da0"
+  },
+  {
+    "path": ".zenodo.json",
+    "size_bytes": 1083,
+    "sha256": "21465a7ddb3bbbbe03e8753de1de63ca729b50d8f0d09738b7d75a08d7256b5f"
+  },
+  {
+    "path": "AI_ASSISTANCE_DISCLOSURE.md",
+    "size_bytes": 503,
+    "sha256": "8401e7a86ad0bb8df3880379b197e4943005c8fc7559cccba5973c0922827e59"
+  },
+  {
+    "path": "CATEGORY_TITLE_ja.md",
+    "size_bytes": 674,
+    "sha256": "0e12968e477776c948fb9a8466cceb2d6881b504187320a540eab3626927446a"
+  },
+  {
+    "path": "CITATION.cff",
+    "size_bytes": 1569,
+    "sha256": "320ae080b04ba0f37ef4e02ba1b71ef2bf915b95bf95ba043ee2bce6624f9b60"
+  },
+  {
+    "path": "CLAIM_BOUNDARY.md",
+    "size_bytes": 2328,
+    "sha256": "c762cf5628025f4f11a467d3b3aa710944f3923c4a74b4bc025491f1f82b9681"
+  },
+  {
+    "path": "LICENSE",
+    "size_bytes": 547,
+    "sha256": "05f1771c750cbc6f65d79e744720eeaf59a17947ab89627383b30971957c1e0b"
+  },
+  {
+    "path": "LICENSE_EVALUATION_ONLY.txt",
+    "size_bytes": 547,
+    "sha256": "05f1771c750cbc6f65d79e744720eeaf59a17947ab89627383b30971957c1e0b"
+  },
+  {
+    "path": "LIMITATIONS.md",
+    "size_bytes": 1061,
+    "sha256": "789d9610faa7497b1079f3df3f6d927fde9561a2608cc001ff5b2fb21ed6d9fd"
+  },
+  {
+    "path": "MANIFEST_NOTE.md",
+    "size_bytes": 392,
+    "sha256": "4afe52dfc0a2d3e9f3514d3b44c4162b0bb623770e90de99ba351a0b7d4f8005"
+  },
+  {
+    "path": "PRACTICAL_POSITIONING_SHEET_ja.md",
+    "size_bytes": 2828,
+    "sha256": "baebff856833c81e06d193604fbc143a760f376f44df437bb98612b460ae1f90"
+  },
+  {
+    "path": "PUBLICATION_STRATEGY_ja.md",
+    "size_bytes": 881,
+    "sha256": "a5e6f8ed8db4a56d81da361a9cc34a6de017816c61c55f8aa421b539c4dfa531"
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 5424,
+    "sha256": "4fa1447fece2ff03fefbaba7e3e6244a3a8adc38232d130b87ca714a3c536ccc"
+  },
+  {
+    "path": "README_ja.md",
+    "size_bytes": 5683,
+    "sha256": "53e20c14f3545f6001cb8c36dfd836739c5ec33a7a3fdc2098307c8b9b792625"
+  },
+  {
+    "path": "RELEASE_NOTES_v0.1.1_zenodo_safe_public_gate.md",
+    "size_bytes": 3239,
+    "sha256": "b02b2102ad2f0c7ad5959e5b0910d24fe15e288dccc574dbf29bd622312a579e"
+  },
+  {
+    "path": "SOURCE_INPUTS_USED.json",
+    "size_bytes": 540,
+    "sha256": "85b4debfcf04360bc5bf653aa1c559227138e7411526f36e40f689d2ddc84e20"
+  },
+  {
+    "path": "SOURCE_INPUTS_USED_v0_3_1.json",
+    "size_bytes": 630,
+    "sha256": "b0550935e6441a7d6d352705c57d9e411c315435f9076013799b77dd27d20783"
+  },
+  {
+    "path": "SUPPORT.md",
+    "size_bytes": 903,
+    "sha256": "7ed7558ed06ce02c57793fc4f3c78433de2a096a21692ced4da10074cc334207"
+  },
+  {
+    "path": "deferred_related_materials_index/README_ja.md",
+    "size_bytes": 349,
+    "sha256": "aee651fbbc8bc1bd4ecec614298bde9914c9d68cef155a7bbe750a6cab527a86"
+  },
+  {
+    "path": "deferred_related_materials_index/source_materials_classification.csv",
+    "size_bytes": 1360362,
+    "sha256": "ac058b2d809ce061122c225f2ccadd11647f1933866e50f9307e1b1c48c03efd"
+  },
+  {
+    "path": "docs/CLAIM_BOUNDARY_DTTS_v0_3_0.md",
+    "size_bytes": 1077,
+    "sha256": "b4f761106d5f6ae6315716f5171c249fdee3ce838834583a3f1d51eea75196f7"
+  },
+  {
+    "path": "docs/CLAIM_BOUNDARY_DTTS_v0_3_1.md",
+    "size_bytes": 943,
+    "sha256": "577bab8d73d2c3e6d97d90f2ce0e1d149835d6e4e5ce6511f65403f61763d34f"
+  },
+  {
+    "path": "docs/DTTS_v030_reader_guidance.md",
+    "size_bytes": 426,
+    "sha256": "85e05d49695479c07ae63d3e493070c4e755f7f6b0a4b9ed1fb65b6a1d07cc4c"
+  },
+  {
+    "path": "docs/DTTS_v031_reader_guidance.md",
+    "size_bytes": 454,
+    "sha256": "80f089dd4455f617ef41f34370c2eabadfab5e47230b907e371c31c752f90bee"
+  },
+  {
+    "path": "docs/GITHUB_PUBLICATION_CHECKLIST_ja.md",
+    "size_bytes": 852,
+    "sha256": "b4b4694f6b21510181bc935be5ddbe7b96267c7b50300f2c8caeca4dd0a59820"
+  },
+  {
+    "path": "docs/MANUSCRIPT_CLEANUP_REQUIRED_ja.md",
+    "size_bytes": 573,
+    "sha256": "f30a2e853011a8520f2c485a47a379ff6a8482881b784f94c16a8bc1fcdd8524"
+  },
+  {
+    "path": "docs/MEDICAL_CLAIM_BOUNDARY_ja.md",
+    "size_bytes": 744,
+    "sha256": "f9bc7f0e1062cfc1b50d7061693c30ca000562f5b1e6a7090e9e43a39bfa4331"
+  },
+  {
+    "path": "docs/MISSING_MATERIALS_ja.md",
+    "size_bytes": 608,
+    "sha256": "c8d2a5d687a99cda7d4b5bf3da303549fd65f94062dbdfda008ff07e1b00ac36"
+  },
+  {
+    "path": "docs/PDF_CLEANUP_APPLIED_PUBLIC_GATE_0.md",
+    "size_bytes": 771,
+    "sha256": "090d799e2fbd3baae44564a1f3bd11c9482377147aaea488cfc02e883076d395"
+  },
+  {
+    "path": "docs/REPRODUCIBILITY_NOTES_ja.md",
+    "size_bytes": 658,
+    "sha256": "5a2f55435689486f1dd57c015be3391fbf59a24ffb0a78a803ebe887fd61d8ec"
+  },
+  {
+    "path": "docs/citation_metadata/CITATION_DRAFT_pre_doi.cff",
+    "size_bytes": 1099,
+    "sha256": "f61f43442b2c0f0974fe0e2ff7f76805ba342ac32e3ca0e43c6588ca76888786"
+  },
+  {
+    "path": "docs/jxiv/JXIV_METADATA_DRAFT_v0_3_0.md",
+    "size_bytes": 2626,
+    "sha256": "df4787af0c4c5ac4720f177b02654721c86d8ed86c3be848c2ef44e7a4646283"
+  },
+  {
+    "path": "docs/jxiv/JXIV_METADATA_DRAFT_v0_3_1.md",
+    "size_bytes": 759,
+    "sha256": "92f550303dec5c5506ac52c56455c9bfc66ce45ab9c66e3a3c211defafae8754"
+  },
+  {
+    "path": "docs/public_gate_0/PUBLIC_GATE_0_A10_DTTS.json",
+    "size_bytes": 1554,
+    "sha256": "c2aa7475523c6a9adbc692f4d2385c023fab6e1b070ead3b033f843b280a42d2"
+  },
+  {
+    "path": "docs/public_gate_0/PUBLIC_GATE_0_A10_DTTS.md",
+    "size_bytes": 1790,
+    "sha256": "d9038087a7b721f163806b7d848df114e9259393fad0041c246a69dd652b7fd9"
+  },
+  {
+    "path": "docs/release/RELEASE_DATA_v0_3_0.md",
+    "size_bytes": 1560,
+    "sha256": "0267aa43005d65debf42ece803582b6c9ca9a205586ea0ac4e3478e57b486fe1"
+  },
+  {
+    "path": "docs/release/RELEASE_DATA_v0_3_1.md",
+    "size_bytes": 3190,
+    "sha256": "d1bd84e0482859a16c77cd06158a6128988487f01938eb0c912708ac61f83aca"
+  },
+  {
+    "path": "docs/release/REPOSITORY_REGISTRATION_DATA_v0_3_0.md",
+    "size_bytes": 572,
+    "sha256": "21a2b12f1d5d8628c524ed17f53a53c711fcd36603f15ce81f5f7ab70deb143c"
+  },
+  {
+    "path": "docs/release/REPOSITORY_REGISTRATION_DATA_v0_3_1.md",
+    "size_bytes": 471,
+    "sha256": "72d6242b2cee6677c835c6bc6213abe8ec24a77ea2220efb9c5f803d1d9b66ff"
+  },
+  {
+    "path": "docs/release/ZENODO_GITHUB_REGISTRATION_NOTES_v0_3_0.md",
+    "size_bytes": 470,
+    "sha256": "167397b55727be7ee13544a56ba4ae13065ec945a9c392fe3d7c7ac64261a7f9"
+  },
+  {
+    "path": "docs/release/ZENODO_GITHUB_REGISTRATION_NOTES_v0_3_1.md",
+    "size_bytes": 511,
+    "sha256": "61513e2e345da093d38ee51e7e5063b3f448de63d8144b41aa54d6ca22dc87ea"
+  },
+  {
+    "path": "docs/technical_visual_orientation/README_TECHNICAL_VISUAL_ORIENTATION.md",
+    "size_bytes": 1485,
+    "sha256": "4377cc8c5a7fb74f7d8ac07cf20a1bb729c68de7b78257e0471d4d85bf60457a"
+  },
+  {
+    "path": "docs/technical_visual_orientation/TECHNICAL_VISUAL_ORIENTATION_SCOPE.md",
+    "size_bytes": 1466,
+    "sha256": "acf59fc560332d574256cd01fda7bdd877b340084845759963538a7bb305618c"
+  },
+  {
+    "path": "docs/technical_visual_orientation/index.html",
+    "size_bytes": 27396,
+    "sha256": "b80ecebaa58e8c1d79eb279996b6d393c4706fbb149259c2f6dcd25d16f73cbd"
+  },
+  {
+    "path": "docs/visual_orientation/index.html",
+    "size_bytes": 1166,
+    "sha256": "ac27da3317ed7d0c9e668662dd7e14ba2b5745119e84d1b5bd3275fffd4f472a"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/DTTS_v030_addendum_outline.md",
+    "size_bytes": 813,
+    "sha256": "c44961ab7b3fb8f11659bb1d2a89621cae6252405f03c2068c974f2d5f0ea9be"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/DTTS_v030_claim_lock.json",
+    "size_bytes": 1339,
+    "sha256": "75ab26bc92f6230b2f911ad7941b20ab7a43d592016a85251abaf82349a2e1ea"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/DTTS_v030_next_steps.md",
+    "size_bytes": 469,
+    "sha256": "cc6e354c9b4afabbde506e02e83dc16245d8ce3f6079c6b88822e4a4cf6fd3b6"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/DTTS_v030_phase_ledger.csv",
+    "size_bytes": 2159,
+    "sha256": "ed3a9fd887fd6061dde0a2e9bc86cda49d9c6c5706769569a6d0c944de6c55a8"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/DTTS_v030_run_stamp.json",
+    "size_bytes": 177,
+    "sha256": "e8c993b72a3bcc8ae30e01645349988ebde814ccdb5a9a34760267a337d19b10"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/DTTS_v030_synthesis_report.md",
+    "size_bytes": 3702,
+    "sha256": "5e658d8ab43885ef60792e91bfce12b1516c6a01b8caebfc73f4f955a96721e6"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/selected_figures/dtts_v028_frozen_vs_native_pass_rates.png",
+    "size_bytes": 75306,
+    "sha256": "4eec858fae01e1ad64a5c3b7eac041857506c12baa9f0fff27a93b6971829aa5"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/selected_figures/dtts_v028_topology_noise_holdout_heatmap.png",
+    "size_bytes": 42058,
+    "sha256": "57bc3de50339e7cc16103ed68facdcbe5079d038e8081e9d8ef927dc6d70f501"
+  },
+  {
+    "path": "figures/README_ja.md",
+    "size_bytes": 346,
+    "sha256": "936ac05ef4a3c9b7b6ef32c844b5a809a338b4512f9eff632e3c58872a0b1c19"
+  },
+  {
+    "path": "figures/figure_index.csv",
+    "size_bytes": 417,
+    "sha256": "530ba00ac5e8e701d9947cc4107a0fd04b365b35c42f9be61c3a8bac4d99b949"
+  },
+  {
+    "path": "figures/integrated_v0_3_1/dtts_v028_frozen_vs_native_pass_rates.png",
+    "size_bytes": 75306,
+    "sha256": "4eec858fae01e1ad64a5c3b7eac041857506c12baa9f0fff27a93b6971829aa5"
+  },
+  {
+    "path": "figures/integrated_v0_3_1/dtts_v028_topology_noise_holdout_heatmap.png",
+    "size_bytes": 42058,
+    "sha256": "57bc3de50339e7cc16103ed68facdcbe5079d038e8081e9d8ef927dc6d70f501"
+  },
+  {
+    "path": "figures/integrated_v0_3_1/fig_scatter_selective.png",
+    "size_bytes": 195189,
+    "sha256": "dd9bae597be564719bab2d35b613b6f60dbf6b99a2fd138c9dd3b4f792a0d07d"
+  },
+  {
+    "path": "figures/integrated_v0_3_1/fig_timeseries_final.png",
+    "size_bytes": 527434,
+    "sha256": "ea889bcbe9661a90b0f6db2bbcea58e3817aaae76a9434cce3db406b882a5870"
+  },
+  {
+    "path": "figures/v030_selected/dtts_v028_frozen_vs_native_pass_rates.png",
+    "size_bytes": 75306,
+    "sha256": "4eec858fae01e1ad64a5c3b7eac041857506c12baa9f0fff27a93b6971829aa5"
+  },
+  {
+    "path": "figures/v030_selected/dtts_v028_topology_noise_holdout_heatmap.png",
+    "size_bytes": 42058,
+    "sha256": "57bc3de50339e7cc16103ed68facdcbe5079d038e8081e9d8ef927dc6d70f501"
+  },
+  {
+    "path": "paper/Dynamical Threshold Theory of Sleep.pdf",
+    "size_bytes": 844631,
+    "sha256": "4fcf646f1cba06f54efeabcf972d6ead9754d791f066406e3f9a581b28f9979c"
+  },
+  {
+    "path": "paper/Dynamical Threshold Theory of Sleep.tex",
+    "size_bytes": 13311,
+    "sha256": "8cde04ba20a30227c0dc36aa77fc3b30408be9cf6059d78386ff7f0d22234079"
+  },
+  {
+    "path": "paper/addendum_v0_3_0/DTTS_threshold_hysteresis_rescue_regime_addendum_v0_3_0_with_github_url.pdf",
+    "size_bytes": 210189,
+    "sha256": "d1f64d8038bd43e5ed63727904bd68e44177a46aab26cd1125a4f9e893a99fe9"
+  },
+  {
+    "path": "paper/addendum_v0_3_0/DTTS_threshold_hysteresis_rescue_regime_addendum_v0_3_0_with_github_url.tex",
+    "size_bytes": 8516,
+    "sha256": "fbff763995c834ef0b00e66c6731b05fdb2bdf1ca37d29fdf458e5588669daad"
+  },
+  {
+    "path": "paper/addendum_v0_3_0/dtts_v028_frozen_vs_native_pass_rates.png",
+    "size_bytes": 75306,
+    "sha256": "4eec858fae01e1ad64a5c3b7eac041857506c12baa9f0fff27a93b6971829aa5"
+  },
+  {
+    "path": "paper/addendum_v0_3_0/dtts_v028_topology_noise_holdout_heatmap.png",
+    "size_bytes": 42058,
+    "sha256": "57bc3de50339e7cc16103ed68facdcbe5079d038e8081e9d8ef927dc6d70f501"
+  },
+  {
+    "path": "paper/integrated_v0_3_1/DTTS_integrated_model_audit_synthesis_v0_3_1.pdf",
+    "size_bytes": 946489,
+    "sha256": "0c361e1dd9fe2c7918ae4f1c7a06ba2a698fe2fd30b2d9575221860dcd108258"
+  },
+  {
+    "path": "paper/integrated_v0_3_1/DTTS_integrated_model_audit_synthesis_v0_3_1.tex",
+    "size_bytes": 15636,
+    "sha256": "8ead89df9f5ab6084da4297594705c7b4cfe21f9740af914dbf3df687a1f6e6c"
+  },
+  {
+    "path": "paper/integrated_v0_3_1/dtts_v028_frozen_vs_native_pass_rates.png",
+    "size_bytes": 75306,
+    "sha256": "4eec858fae01e1ad64a5c3b7eac041857506c12baa9f0fff27a93b6971829aa5"
+  },
+  {
+    "path": "paper/integrated_v0_3_1/dtts_v028_topology_noise_holdout_heatmap.png",
+    "size_bytes": 42058,
+    "sha256": "57bc3de50339e7cc16103ed68facdcbe5079d038e8081e9d8ef927dc6d70f501"
+  },
+  {
+    "path": "paper/integrated_v0_3_1/fig_scatter_selective.png",
+    "size_bytes": 195189,
+    "sha256": "dd9bae597be564719bab2d35b613b6f60dbf6b99a2fd138c9dd3b4f792a0d07d"
+  },
+  {
+    "path": "paper/integrated_v0_3_1/fig_timeseries_final.png",
+    "size_bytes": 527434,
+    "sha256": "ea889bcbe9661a90b0f6db2bbcea58e3817aaae76a9434cce3db406b882a5870"
+  },
+  {
+    "path": "results_summary/dtts_prediction_summary.csv",
+    "size_bytes": 708,
+    "sha256": "ebbfa9ba0449c995b3c021c5bac2e1b74586dc2c278a9aeacc5fcfa9b992f895"
+  },
+  {
+    "path": "results_summary/summary.json",
+    "size_bytes": 1595,
+    "sha256": "fdd64d8a8766c62c619d06262aa4a6644b29b82ce6dbd828d81b3d15ebf1f929"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/README_ja.md",
+    "size_bytes": 594,
+    "sha256": "af0576bea6df248e4e260583445963368858d54873ba38b9da1c6c956acbe6f3"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/dynamical_sleep_theory_selected/fig_scatter_selective.png",
+    "size_bytes": 195189,
+    "sha256": "dd9bae597be564719bab2d35b613b6f60dbf6b99a2fd138c9dd3b4f792a0d07d"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/dynamical_sleep_theory_selected/fig_timeseries_final.png",
+    "size_bytes": 527434,
+    "sha256": "ea889bcbe9661a90b0f6db2bbcea58e3817aaae76a9434cce3db406b882a5870"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/dynamical_sleep_theory_selected/simulation_result.png",
+    "size_bytes": 424534,
+    "sha256": "e23df9094f891133e5955329a0823190bf1b2f86ee6a528de11c229236a58b88"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/dynamical_sleep_theory_selected/sleep_dynamics_final.py",
+    "size_bytes": 7267,
+    "sha256": "5e046d229e132637f8698b05d5668d3e3c60dcaf395c711a4249d29c7dd4ca47"
+  },
+  {
+    "path": "source_materials/selected_from_uploaded_dtts_project/dynamical_sleep_theory_selected/sleep_dynamics_v2.py",
+    "size_bytes": 5931,
+    "sha256": "468cc8e299ce525fc87bf052fc5d4af24d92e80e1483b620829c8a59cfdcd7fc"
+  },
+  {
+    "path": "tools/verify_manifest_excluding_self.py",
+    "size_bytes": 898,
+    "sha256": "6b1294314e6eb503336d049055322f89f6a4e596d76475efbdf1b39b24b7c395"
+  }
+]

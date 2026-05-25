@@ -1,0 +1,21 @@
+{
+  "status": "PASS-DTTS-V030-SYNTHESIS-LOCKED",
+  "package_version": "v0.3.0-synthesis-lock",
+  "generated_at_utc": "2026-05-25T13:34:46.917098+00:00",
+  "phase_count_expected": 9,
+  "phase_count_found": 9,
+  "missing_phases": [],
+  "locked_claim": "Within the implemented finite adaptive-network toy-model sequence, DTTS-like sleep-gate onset, hysteresis-like persistence, structurally aligned selective protection, perturbation-recovery response, and topology/noise robustness were observed within tested regimes. Expanded audits identified failure boundaries, and frozen minimal rescue policies generalized across holdout seeds, simplified topologies, and noise levels for most rescue-sensitive regimes, while weak-protection conditions remained unstable under harsher holdout. This is a claim-bounded network-dynamical toy-model result, not a biological or clinical sleep claim.",
+  "v028_frozen_policy_mean_pass_rate": 0.7729166666666667,
+  "v028_native_pass_count": 1,
+  "v028_rescue_holdout_pass_count": 4,
+  "v028_unstable_rescue_boundary_count": 1,
+  "v028_persistent_failure_boundary_count": 0,
+  "forbidden_claims": [
+    "clinical sleep diagnosis",
+    "medical advice or treatment guidance",
+    "human or animal sleep-data validation",
+    "EEG or wearable-device prediction",
+    "complete biological theory of sleep"
+  ]
+}
