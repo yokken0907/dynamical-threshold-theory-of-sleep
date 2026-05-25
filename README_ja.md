@@ -73,3 +73,18 @@ DTTSは、睡眠様遷移を扱う数理・計算プロトタイプであり、�
 また、このページでは reduced dynamical-threshold model としての位置づけ、load / arousal / threshold / synchronization channels、recovery-basin interpretation、evidence hierarchy、リポジトリ閲覧順、および medical claim boundary を短く整理しています。主要な図解セクションには replay control を付けており、静的テンプレートではなく診断ロジックを段階的に確認できます。
 
 このページは説明補助であり、medical / clinical computation を実行するものではありません。診断、治療、患者別予測、wearable-device certification、medical-device readiness、または臨床的妥当性を示すものでもなく、論文本体、source materials、figures、または専門家による独立評価を置き換えるものでもありません。
+
+
+## v0.3.0 統合補遺
+
+本リポジトリには、claim-boundedな統合補遺を追加している。
+
+`paper/addendum_v0_3_0/DTTS_threshold_hysteresis_rescue_regime_addendum_v0_3_0.pdf`
+
+v0.3.0補遺は、v0.2.0--v0.2.8のトイモデル監査を統合し、閾値的ゲート立ち上がり、ヒステリシス様持続、選択的保護、急性負荷からの回復、topology/noise頑健性、失敗境界、機構別救済分類、凍結救済ポリシーholdoutを扱う。
+
+本補遺は、臨床睡眠診断、医療助言、診断・治療手法、ヒトまたは動物睡眠データ検証、EEG/ウェアラブル予測、完全な生物学的睡眠理論を主張しない。
+
+## ライセンス
+
+本リポジトリは、root直下の `LICENSE` および `LICENSE_EVALUATION_ONLY.txt` に記載された source-defined Evaluation-Only license を用いる。Zenodoでは CC-BY-NC-4.0 ではなく、出典参照 / other-open 相当の選択肢で扱う。

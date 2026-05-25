@@ -77,3 +77,17 @@ DTTS is a mathematical and computational prototype for sleep-like recovery phase
 ## Support
 
 This project is independently developed without institutional sponsorship. Optional support for maintenance and documentation is described in [SUPPORT.md](SUPPORT.md).
+
+## v0.3.0 synthesis addendum
+
+This repository now includes a claim-bounded synthesis addendum:
+
+`paper/addendum_v0_3_0/DTTS_threshold_hysteresis_rescue_regime_addendum_v0_3_0.pdf`
+
+The v0.3.0 addendum synthesizes v0.2.0--v0.2.8 toy-model audits covering threshold-like gate onset, hysteresis-like persistence, selective protection, perturbation recovery, topology/noise robustness, failure boundaries, mechanism-rescue classification, and frozen rescue-policy holdout.
+
+The addendum does not claim clinical sleep diagnosis, medical advice, treatment guidance, human or animal sleep-data validation, EEG or wearable-device prediction, or a complete biological theory of sleep.
+
+## License
+
+This repository uses the source-defined Evaluation-Only license in `LICENSE` and `LICENSE_EVALUATION_ONLY.txt`. For Zenodo, use the source-defined / other-open option rather than selecting CC-BY-NC-4.0.
