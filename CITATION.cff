@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this DTTS package, cite the repository archive and preserve the medical non-claim boundary. Repository archives are release artifacts, not standalone peer-reviewed article identifiers."
+type: software
+title: "Dynamical Threshold Theory of Sleep v0.3.2: Claim-Bounded Toy-Network Diagnostics of Sleep-Like Recovery Transitions"
+authors:
+  - family-names: "Yoshimura"
+    given-names: "Keiji"
+    affiliation: "Independent Researcher"
+version: "v0.3.2-public-landing-and-metadata-refresh"
+date-released: "2026-06-04"
+url: "https://github.com/yokken0907/dynamical-threshold-theory-of-sleep"
+repository-code: "https://github.com/yokken0907/dynamical-threshold-theory-of-sleep"
+abstract: "Public landing and metadata refresh of a claim-bounded DTTS toy-network diagnostic archive for sleep-like recovery-transition dynamics. The package preserves a v0.3.1 integrated manuscript and audit synthesis on threshold-like gate onset, hysteresis-like persistence, selective protection, perturbation recovery, topology/noise robustness, failure boundaries, rescue-regime classification, and frozen rescue-policy holdout behavior in simplified adaptive networks. It does not claim clinical sleep diagnosis, medical advice, treatment guidance, human or animal sleep-data validation, EEG or wearable-device prediction, sleep-improvement method, or a complete biological theory of sleep."
+keywords:
+  - DTTS
+  - sleep-like recovery transition
+  - toy network
+  - claim-bounded diagnostics
+  - threshold dynamics
+  - hysteresis
+  - selective protection
+  - adaptive networks
+  - oscillator networks
+  - recovery dynamics
+  - rescue regimes
+  - non-clinical model

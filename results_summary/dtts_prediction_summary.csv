@@ -1,0 +1,6 @@
+prediction,paper_result,claim_level
+heterogeneous_homeostatic_burden,spatially heterogeneous accumulation of homeostatic burden,qualitative proof-of-concept simulation
+sleep_propensity_growth,rapid growth of mean sleep propensity into a sleep-dominant regime,qualitative proof-of-concept simulation
+bounded_coupling_downscaling,bounded global downscaling of mean coupling strength toward finite fixed points,mathematical/proof-of-concept closure
+free_energy_relaxation,reduced free energy relaxes after early transient overshoot toward a bounded plateau,simulation diagnostic
+selective_protection,edges with stronger pre-sleep protection are preferentially preserved during sleep,simulation diagnostic

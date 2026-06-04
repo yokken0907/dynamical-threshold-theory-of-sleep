@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yokken0907.github.io/dynamical-threshold-theory-of-sleep/sitemap.xml

@@ -1,0 +1,34 @@
+{
+  "title": "Dynamical Threshold Theory of Sleep",
+  "classification_ja": "睡眠相転移・回復ダイナミクスのネットワーク理論",
+  "status": "paper_companion_archive_v0_1",
+  "central_claim": "mathematical network prototype for sleep-like recovery phase transitions, not clinical or empirical validation",
+  "prediction_summary": [
+    {
+      "prediction": "heterogeneous_homeostatic_burden",
+      "paper_result": "spatially heterogeneous accumulation of homeostatic burden",
+      "claim_level": "qualitative proof-of-concept simulation"
+    },
+    {
+      "prediction": "sleep_propensity_growth",
+      "paper_result": "rapid growth of mean sleep propensity into a sleep-dominant regime",
+      "claim_level": "qualitative proof-of-concept simulation"
+    },
+    {
+      "prediction": "bounded_coupling_downscaling",
+      "paper_result": "bounded global downscaling of mean coupling strength toward finite fixed points",
+      "claim_level": "mathematical/proof-of-concept closure"
+    },
+    {
+      "prediction": "free_energy_relaxation",
+      "paper_result": "reduced free energy relaxes after early transient overshoot toward a bounded plateau",
+      "claim_level": "simulation diagnostic"
+    },
+    {
+      "prediction": "selective_protection",
+      "paper_result": "edges with stronger pre-sleep protection are preferentially preserved during sleep",
+      "claim_level": "simulation diagnostic"
+    }
+  ],
+  "claim_boundary": "No clinical sleep diagnosis, medical advice, human-data validation, therapeutic claim, or complete biological sleep theory claim."
+}
